@@ -1,0 +1,11 @@
+framework module CellCustom {
+  umbrella header "CellCustom.h"
+
+  export *
+  module * { export * }
+}
+
+module CellCustom.Swift {
+    header "CellCustom-Swift.h"
+    requires objc
+}
