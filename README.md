@@ -1,5 +1,3 @@
-# SwiftExamples
-
 Create an iOS iPhone application project  that can fetch JSON data from the provided URL and displays the list of states information in a tabular format.
 
 1.       Create an iOS Universal framework project that exports a custom UITableViewCell class. (Eg: Mycell.framework)
